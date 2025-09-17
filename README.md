@@ -12,7 +12,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -22,7 +21,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://bruno590.github.io/Frontend-Mentor---Blog-preview-card/)
+- Live Site URL: https://bruno590.github.io/Frontend-Mentor---Blog-preview-card/
 
 ## My process
 
@@ -38,7 +37,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 
 - Frontend Mentor - [@Bruno590](https://www.frontendmentor.io/profile/Bruno590)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
